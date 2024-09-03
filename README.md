@@ -1,3 +1,5 @@
+⚠️ **This is expected behaviour as Next.js treats `not-found.tsx` like a layout, which wraps all child routes.**
+
 This is a reproduction of a static build issue with Next.js and the `not-found.tsx` page.
 
 ## Issue

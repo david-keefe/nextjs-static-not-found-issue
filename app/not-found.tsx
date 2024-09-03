@@ -1,7 +1,7 @@
-// import { headers } from "next/headers";
+import { headers } from "next/headers";
 
 export default function NotFoundPage() {
-  //   const headersList = headers();
+  const headersList = headers();
 
   return <div>Not Found Page</div>;
 }
